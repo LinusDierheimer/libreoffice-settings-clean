@@ -9,7 +9,7 @@ Read [this](https://wiki.documentfoundation.org/UserProfile) article, to find th
 
 Steps to install on linux, mac and windows are simular, you may need to change a command name or simply do it through the file manager gui. Pretending to be inside of the config directory (user/), because from here all paths are the same on all platforms.   
 
-`cd config/` From here the save the old settings  
+`cd config/` From here we save the old settings  
 `mv soffice.cfg soffice.cfg.old` Save the original setting.  
 `git clone https://github.com/LinusDierheimer/libreoffice-settings-clean.git soffice.cfg/` clone my settings, thats it!  
   
